@@ -7,7 +7,7 @@
 ![Luiz Gustavo Github Stats](https://github-readme-stats.vercel.app/api?username=Zendered&show_icons=true&theme=midnight-purple)
 
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/luiz-gustavo-rezende-da-silva-480aa2165)  [![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://www.instagram.com/luizgustavo0_0/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/luiz-gustavo-zndev)  [![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://www.instagram.com/luizgustavo0_0/)
 
 
 #
