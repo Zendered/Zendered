@@ -1,8 +1,8 @@
 # Hi there, I'm Luiz Gustavo👋
 
-- 💻 I’m currently dont have a job
+- 💻 I’m currently looking for a job
 - 👯 I’m looking to collaborate on companies that need a backend developer
-- 🌱 I’m currently learning NodeJS,Typescript,ReactJs,Mysql,Mongodb
+- 🌱 I’m currently learning NodeJS,Typescript,Prisma
 
 ![Luiz Gustavo Github Stats](https://github-readme-stats.vercel.app/api?username=Zendered&show_icons=true&theme=midnight-purple)
 
