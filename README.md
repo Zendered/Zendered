@@ -1,4 +1,4 @@
-# Hi there, I'm Luiz Gustavo👋
+# Hi there, I'm Luiz👋
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zendered&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zendered&layout=compact&hide=ejs,css,html,scss,&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
